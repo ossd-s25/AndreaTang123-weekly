@@ -17,7 +17,7 @@ description: Hello! I am a senior in NYU CAS majoring in Computer Science with a
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /AndreaTang123-weekly/images/IMG_9783.jpeg
+avatar: /AndreaTang123-weekly/images/tt.png
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
@@ -35,9 +35,9 @@ footer-links:
   email: xt2073@nyu.edu
   facebook:
   flickr:
-  github: ossd-s25/AndreaTang123-weekly
-  instagram: 
-  linkedin: in/xueyingtang
+  github: https://ossd-s25.github.io/AndreaTang123-weekly
+  instagram: https://www.instagram.com/andtang/
+  linkedin: https://www.linkedin.com/in/xueyingtang/
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
