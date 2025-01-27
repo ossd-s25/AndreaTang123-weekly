@@ -57,7 +57,7 @@ url: "https://ossd-s25.github.io/AndreaTang123-weekly"
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/AndreaTang123-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
