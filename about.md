@@ -8,5 +8,5 @@ Hi! My name is Andrea Tang. I am currently a senior at NYU CAS majoring in Compu
 
 ### More Information
 
- I love books, movies, dogs, and traveling.
+ I am from Beijing, China. I love books, movies, dogs, and traveling.
 
