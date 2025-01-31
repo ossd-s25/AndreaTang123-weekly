@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Jan 30   | https://zh.wikipedia.org/wiki/Draft:%E9%99%86%E7%8A%AF%E7%84%89%E8%AF%86    | wikipedia    |   I added an entry    |
 |     |     |     |      |
 |     |     |     |      |
