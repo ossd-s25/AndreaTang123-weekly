@@ -10,6 +10,7 @@ As I explore open source projects, I find that each presents unique challenges a
 ## Coralnet
 - **What I excited about** Coralnet is a open source project created by a group of students in UCSD. Our team have studied and explored Coralnet's website during the class. Overall, I believe Coralnet is an interesting project which it serves an idea of coral reef protection by organizing a collection of coral reef survey data and use the data to create and deploy automated annotation methods. The nagivation of the website was pretty smooth. 
 - **Biggest Challenge** However, I found it difficult to contribute as an open source project due to its inclusiveness as a group project. There was no instructions and code of conduct for potential contributers and the past contribution was made by the same person within the develop group. 
+<!--more-->
 - **Solution** To overcome this challenge, I would suggest that the CoralNet team create a contribution guide, detailing how new contributors can get started, what areas need improvement, and how to communicate with maintainers. Additionally, establishing a more welcoming and structured onboarding process could help lower the entry barrier for external contributors.
 
 ## Pytorch
