@@ -1,0 +1,24 @@
+---
+layout: post
+title: Week 5
+---
+
+# Reflection on Open Source Projects
+
+As I explore open source projects, I find that each presents unique challenges and opportunities. 
+
+## Coralnet
+- **What I excited about** Coralnet is a open source project created by a group of students in UCSD. Our team have studied and explored Coralnet's website during the class. Overall, I believe Coralnet is an interesting project which it serves an idea of coral reef protection by organizing a collection of coral reef survey data and use the data to create and deploy automated annotation methods. The nagivation of the website was pretty smooth. 
+- **Biggest Challenge** However, I found it difficult to contribute as an open source project due to its inclusiveness as a group project. There was no instructions and code of conduct for potential contributers and the past contribution was made by the same person within the develop group. 
+- **Solution** To overcome this challenge, I would suggest that the CoralNet team create a contribution guide, detailing how new contributors can get started, what areas need improvement, and how to communicate with maintainers. Additionally, establishing a more welcoming and structured onboarding process could help lower the entry barrier for external contributors.
+
+## Pytorch
+- **What I excited about** PyTorch is a widely used machine learning framework known for its flexibility and ease of use, especially in research. Contributing to PyTorch could provide exposure to cutting-edge technology and a chance to work with a highly active developer community.
+- **Biggest Challenge** However there are still challenges to contribute to Pytorch. Given the high technical barrier and need for very skilled knowledge of neural networks, making meaningful contributions may not be realistic for student like me who try to participate in an open source project for the first time.
+- **Solution** To overcome this, I could start with beginner-friendly issues labeled as "good first issue" on PyTorch’s GitHub repository. Additionally, engaging in discussions, studying PyTorch’s documentation, and following tutorials would help build the necessary expertise before attempting significant contributions.
+
+## Godot
+- **What I excited about** Godot is a powerful and lightweight game engine that has been gaining traction in the indie development scene. One of the things I find most exciting about it is its open and community-driven development model. The project has a strong ecosystem, and its scripting language, GDScript, makes it highly accessible. This open source project is good for people who have interest in games. 
+- **Biggest Challenge** For newcomers, understanding the engine’s architecture and contributing meaningfully to such a vast codebase could be daunting. The lack of familiarity with game engine development concepts could also be a challenge.
+- **Solution** To address this challenge, I could start by exploring beginner-friendly documentation and contributing to smaller tasks such as fixing bugs or improving documentation. Engaging with the Godot community on forums and Discord could also help me understand the workflow and how contributions are made effectively. Eventually, I could work my way up to more complex engine improvements.
+
