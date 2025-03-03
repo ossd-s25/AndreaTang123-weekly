@@ -23,6 +23,6 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  Jan 28   |  https://ossd-s25.github.io/AndreaTang123-weekly/   |  personal blogs website   |   fixed broken social media links   |
-| Jan 30   | https://zh.wikipedia.org/wiki/Draft:%E9%99%86%E7%8A%AF%E7%84%89%E8%AF%86    | wikipedia    |   I added an entry    |
-|  Feb 02   |  https://www.openstreetmap.org/changeset/162512767   |  openstreetmap   |  added a location    |
-|     |     |     |      |
+| Jan 30   | [wikipedia contribution](https://zh.wikipedia.org/wiki/Draft:%E9%99%86%E7%8A%AF%E7%84%89%E8%AF%86)    | wikipedia    |   I added an entry    |
+|  Feb 02   |  [OpenStreetMap contribution](https://www.openstreetmap.org/changeset/162512767)   |  openstreetmap   |  added a location    |
+|  Mar 3   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  wikipedia   |   added information   |
