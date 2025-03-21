@@ -27,3 +27,6 @@ Replace the first row with your own contribution.
 |  Feb 02   |  [OpenStreetMap contribution](https://www.openstreetmap.org/changeset/162512767)   |  openstreetmap   |  added a location    |
 |  Mar 3   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  wikipedia   |   added information for Geling Yan  |
 |  Mar 3   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  wikipedia   |   added information for Jianbing guozi  |
+|  Mar 10   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  wikipedia   |   added information for Tanghulu  |
+|  Mar 15   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  wikipedia   |   added and edited information for Beijing cuisine  |
+|  Mar 21   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  wikipedia   |   added information for Douzhi  |
