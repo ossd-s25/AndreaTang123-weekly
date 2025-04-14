@@ -34,3 +34,4 @@ Replace the first row with your own contribution.
 |  Mar 31   |  [wikipedia contribution](https://zh.wikipedia.org/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Andtttang)   |  wikipedia Chinese  |   added information for Succession TV series on Wikipedia Chinese  |
 |  April 2   |  [Github PR](https://github.com/microsoft/autogen/pull/6175)   |  Github   |   Submitted a PR to fix issue #4934 |
 |  April 8   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  wikipedia   |  minor changes made for page |
+|  April 13   |  [Github PR](https://github.com/microsoft/autogen/pull/6175)   |  Github   |   Submitted a PR to fix issue #4934 |
