@@ -39,3 +39,4 @@ Replace the first row with your own contribution.
 |  April 13   |  [Github PR](https://github.com/microsoft/autogen/pull/6291)   |  Github   |   Submitted a PR to fix issue #6291 |
 |  April 20   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  Wikipedia   |   contribution to Dragon Boat Festival entry |
 |  April 23   |  [community contribution](https://github.com/microsoft/autogen/discussions/6358)   |  github discussion   |   participate in community discussion |
+|  April 23   |  [Github PR](https://github.com/microsoft/autogen/pull/6409)   |  github PR  |   made a pull request on website frontend |
