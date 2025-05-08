@@ -27,7 +27,6 @@ Replace the first row with your own contribution.
 |  Feb 02   |  [OpenStreetMap contribution](https://www.openstreetmap.org/changeset/162512767)   |  openstreetmap   |  added a location    |
 |  Mar 3   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  Wikipedia   |   added information for Geling Yan  |
 |  Mar 3   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  Wikipedia   |   added information for Jianbing guozi  |
-|  Mar 9   |  [Github PR](https://github.com/microsoft/autogen/issues/4934#issuecomment-2711470169)   |  Github   |   Submitted a PR to fix issue #4934 |
 |  Mar 10   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  Wikipedia   |   added information for Tanghulu  |
 |  Mar 15   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  Wikipedia   |   added and edited information for Beijing cuisine  |
 |  Mar 21   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  Wikipedia   |   added information for Douzhi  |
@@ -36,7 +35,7 @@ Replace the first row with your own contribution.
 |  April 7   |  [Github PR](https://github.com/microsoft/autogen/pull/6175)   |  Github   |   Pull Request successfully merged |
 |  April 8   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  wikipedia   |  minor changes made for page |
 |  April 8   |  [Github PR](https://github.com/microsoft/autogen/issues/6161)   |  Github   |   Assigned issue 6161 |
-|  April 13   |  [Github PR](https://github.com/microsoft/autogen/pull/6291)   |  Github   |   Submitted a PR to fix issue #6291 |
+|  April 13   |  [Github PR](https://github.com/microsoft/autogen/pull/6291)   |  Github   |   Submitted a PR to fix issue #6161 |
 |  April 20   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  Wikipedia   |   contribution to Dragon Boat Festival entry |
 |  April 23   |  [community contribution](https://github.com/microsoft/autogen/discussions/6358)   |  github discussion   |   participate in community discussion |
 |  April 26   |  [Github PR](https://github.com/microsoft/autogen/pull/6409)   |  github PR  |   made a pull request on website frontend |
