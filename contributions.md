@@ -41,3 +41,4 @@ Replace the first row with your own contribution.
 |  April 26   |  [Github PR](https://github.com/microsoft/autogen/pull/6409)   |  github PR  |   made a pull request on website frontend |
 |  April 27   |  [community contribution](https://github.com/microsoft/autogen/discussions/6404)   |  github discussion   |   participate in community discussion |
 |  May 4   |  [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/Andtttang)   |  Wikipedia   |   added information for Zongzi  |
+|  May 8   |  [community contribution](https://github.com/microsoft/autogen/discussions/6490)   |  github discussion   |   participate in community discussion |
